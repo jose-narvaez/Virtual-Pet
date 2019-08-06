@@ -3,4 +3,6 @@ Virtual pet using an Arduino Uno and an LCD display. The virtual pet has 6 diffe
 
 ![](petGIF.gif)
 
+State Diagram
+
 ![](stateDiagram.jpg)
